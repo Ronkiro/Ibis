@@ -5,5 +5,7 @@ Ibis is an open keylogger software that offers anything a Keylogger would need. 
 
 It supports:
 * File keylogging
+* Others features in development
 
-#INDEV
+# #INDEV
+This software is currently on development, so the amount of features may grow within time.
