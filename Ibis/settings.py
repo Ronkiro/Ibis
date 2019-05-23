@@ -5,5 +5,5 @@
 
 # Mode standard is 'f'
 MODE='f'
-FILE_TARGET='aa.txt'
+FILE_TARGET='your file.ext' # Target file, where the software writes the buffer.
 LOG=True
